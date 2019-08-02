@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WallPaper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Amazing Wallpaper in your way</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_latest">Latest</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_gif">Gifs</string>
+    <string name="menu_myfavorite">My Favorites</string>
+    <string name="menu_rateapp">Rate App</string>
+    <string name="menu_moreapp">More App</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_privacypolice">Privacy Police</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
